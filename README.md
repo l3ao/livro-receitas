@@ -1,3 +1,5 @@
 # Livro de Receitas :man_cook:
 
-- Bem vindo ao meu livro de receitas! :book:
+- Olá! Bem vindo ao meu livro de receitas! :book:
+- Strognoff de frango
+- Pavê
